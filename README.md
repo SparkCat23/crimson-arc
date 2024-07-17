@@ -29,6 +29,14 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run backend`
+
+Starts the JSON server to mock backend behavior.\
+It points to the db.json file at the root folder.
+
+The port can be modified by changing the command on the package.json file.\
+use the command on a separate terminal.
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
