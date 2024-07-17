@@ -1,0 +1,227 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "name": "anime_manga",
+            "fandoms": [
+                {
+                    "id": 0,
+                    "name": "Goblin Slayer",
+                    "work_count": 0,
+                    "works": [
+                        {
+                            "author_name": "Jamal Shannon",
+                            "title": "Quisque porttitor eros nec",
+                            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices magna id felis pulvinar, quis dignissim nibh laoreet.",
+                            "rating": "K",
+                            "language": "english",
+                            "genre": ["romance", "adventure"],
+                            "chapter_count": 2,
+                            "word_count": 500,
+                            "review_count": 3,
+                            "favorite_count": 10,
+                            "follow_count": 10,
+                            "created_at": "2025-01-29T10:11:01",
+                            "updated_at": "2024-07-12T07:32:34"
+                        },
+                        {
+                            "author_name": "Justina Barber",
+                            "title": "nec, euismod in, dolor.",
+                            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices magna id felis pulvinar, quis dignissim nibh laoreet.",
+                            "rating": "K",
+                            "language": "english",
+                            "genre": ["romance", "adventure"],
+                            "chapter_count": 2,
+                            "word_count": 500,
+                            "review_count": 3,
+                            "favorite_count": 10,
+                            "follow_count": 10,
+                            "created_at": "2025-01-29T10:11:01",
+                            "updated_at": "2024-07-12T07:32:34"
+                        },
+                        {
+                            "author_name": "Hiram Hall",
+                            "title": "ipsum dolor sit amet,",
+                            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices magna id felis pulvinar, quis dignissim nibh laoreet.",
+                            "rating": "K",
+                            "language": "english",
+                            "genre": ["romance", "adventure"],
+                            "chapter_count": 2,
+                            "word_count": 500,
+                            "review_count": 3,
+                            "favorite_count": 10,
+                            "follow_count": 10,
+                            "created_at": "2025-01-29T10:11:01",
+                            "updated_at": "2024-07-12T07:32:34"
+                        },
+                        {
+                            "author_name": "Nash Morgan",
+                            "title": "laoreet lectus quis massa.",
+                            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices magna id felis pulvinar, quis dignissim nibh laoreet.",
+                            "rating": "K",
+                            "language": "english",
+                            "genre": ["romance", "adventure"],
+                            "chapter_count": 2,
+                            "word_count": 500,
+                            "review_count": 3,
+                            "favorite_count": 10,
+                            "follow_count": 10,
+                            "created_at": "2025-01-29T10:11:01",
+                            "updated_at": "2024-07-12T07:32:34"
+                        },
+                        {
+                            "author_name": "Duncan Witt",
+                            "title": "convallis, ante lectus convallis",
+                            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices magna id felis pulvinar, quis dignissim nibh laoreet.",
+                            "rating": "K",
+                            "language": "english",
+                            "genre": ["romance", "adventure"],
+                            "chapter_count": 2,
+                            "word_count": 500,
+                            "review_count": 3,
+                            "favorite_count": 10,
+                            "follow_count": 10,
+                            "created_at": "2025-01-29T10:11:01",
+                            "updated_at": "2024-07-12T07:32:34"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "name": "Demon Slayer",
+                    "work_count": 0
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "literature",
+            "fandoms": [
+                {
+                    "id": 3,
+                    "name": "Percy Jackson",
+                    "work_count": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "games",
+            "fandoms": [
+                {
+                    "id": 4,
+                    "name": "Devil May Cry",
+                    "work_count": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "movies",
+            "fandoms": [
+                {
+                    "id": 5,
+                    "name": "Pacific Rim",
+                    "work_count": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "cartoons",
+            "fandoms": [
+                {
+                    "id": 6,
+                    "name": "Avatar: The Last Air Bender",
+                    "work_count": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "comics",
+            "fandoms": [
+                {
+                    "id": 7,
+                    "name": "Spider-Man",
+                    "work_count": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "television",
+            "fandoms": [
+                {
+                    "id": 8,
+                    "name": "Supernatural",
+                    "work_count": 0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "original_work",
+            "fandoms": [
+                {
+                    "id": 9,
+                    "name": "I Somehow Ended As The Husband Of A Group Of Goblin Girls",
+                    "work_count": 0
+                }
+            ]
+        }
+    ],
+    "genres": [
+        {
+            "name": "Any"
+        },
+        {
+            "name": "Action"
+        },
+        {
+            "name": "Adventure"
+        },
+        {
+            "name": "Angst"
+        },
+        {
+            "name": "Comfort"
+        },
+        {
+            "name": "Drama"
+        },
+        {
+            "name": "Family"
+        },
+        {
+            "name": "Friendship"
+        },
+        {
+            "name": "Fantasy"
+        },
+        {
+            "name": "Horror"
+        },
+        {
+            "name": "Humor"
+        },
+        {
+            "name": "Mystery"
+        },
+        {
+            "name": "Parody"
+        },
+        {
+            "name": "Poetry"
+        },
+        {
+            "name": "Romance"
+        },
+        {
+            "name": "Sci-fi"
+        },
+        {
+            "name": "Suspense"
+        }
+    ]
+}

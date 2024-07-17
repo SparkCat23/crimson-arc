@@ -1,0 +1,38 @@
+.category_card {
+    width: 40%;
+    min-height: 150px;
+    padding: 0.5em;
+    margin-bottom: 2em;
+    margin-right: 1.5em;
+    border: 1px solid gray;
+}
+
+.category_fandom_list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.category_link {
+    text-decoration: none;
+    font-weight: bold;
+    color: #1f1f1f;
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+.category_link:hover {
+    color: #990000;
+}
+
+.category_fandom_list li a {
+    text-wrap: wrap;
+    text-decoration: none;
+    color: #1f1f1f;
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+.category_fandom_list li a:hover {
+    color: #990000;
+}

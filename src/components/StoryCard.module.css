@@ -1,0 +1,42 @@
+.story_card {
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+    border-bottom: 1px solid gray;
+    font-size: small;
+    padding-bottom: 1em;
+    padding-left: 0.5em;
+}
+
+.story_card_image {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 9em;
+    border: 1px solid gray;
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+}
+
+.story_card:hover {
+    background-color: #c8c8c8;
+}
+
+.story_card p {
+    margin: 0.5em 0;
+}
+
+.story_card_title span {
+    font-weight: bold;
+}
+
+.story_card_stats {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.story_card_stats a,
+.story_card_stats span {
+    margin-right: 2em;
+}
