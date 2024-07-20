@@ -1,7 +1,7 @@
 import styles from './Fandom.module.css'
 
 import { useEffect, useState } from 'react'
-import { useLocation } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 
 import StoryCard from '../components/StoryCard'
 
@@ -21,20 +21,20 @@ function Fandom(){
         })
         .then((resp) => resp.json())
         .then((data) => {
+            setCategory(data)
             if (data.fandoms.length === 0)
                 return
-            if (data.fandoms[fandom_id].works.length === 0)
+            setFandom(data.fandoms.find((f) => f.id == fandom_id))
+            if (data.fandoms.find((f) => f.id == fandom_id).works.length === 0)
                 return
-            setCategory(data)
-            setFandom(data.fandoms[fandom_id])
-            setWorkList(data.fandoms[fandom_id].works)
+            setWorkList(data.fandoms.find((f) => f.id == fandom_id).works)
         })
         .catch((err) => console.log(err))
     },[category_id, fandom_id])
 
     return (
         <div className={styles.fandom_container}>
-            <h4>{category.name} &gt; {fandom.name}</h4>
+            <p className={styles.fandom_link}><Link to={`/category/${category_id}`}>{category.name}</Link> &gt; {fandom.name}</p>
             <div>{workList.length > 0 && workList.map((story) => (
                 <StoryCard {...story}/>
             ))}

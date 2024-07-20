@@ -4,6 +4,7 @@ import './App.css';
 import Navbar from './components/layout/Navbar.js'
 import Container from './components/layout/Container.js';
 
+import Story from './pages/Story.js'
 import Fandom from './pages/Fandom.js';
 import Explore from './pages/Explore.js';
 import Category from './pages/Category.js';
@@ -19,6 +20,7 @@ function App() {
         <Route path='/explore' element={<Explore />}/>
         <Route path='/category/:id' element={<Category />}/>
         <Route path='/fandom/:id' element={<Fandom />}/>
+        <Route path='/story/:id' element={<Story />}/>
       </Routes>
       </Container>
     </BrowserRouter>

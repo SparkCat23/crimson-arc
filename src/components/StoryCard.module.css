@@ -8,14 +8,8 @@
     padding-left: 0.5em;
 }
 
-.story_card_image {
-    display: flex;
-    align-items: center;
-    width: 200px;
-    height: 9em;
-    border: 1px solid gray;
-    margin-top: 0.5em;
-    margin-right: 0.5em;
+.header_format {
+    padding-left: 0em;
 }
 
 .story_card:hover {
@@ -26,10 +20,24 @@
     margin: 0.5em 0;
 }
 
-.story_card_title span {
+.story_card a {
     font-weight: bold;
+    color: #000000;
 }
 
+.story_card a:hover {
+    color: #990000;
+}
+
+.story_card_image {
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 120px;
+    border: 1px solid gray;
+    margin-top: 0.5em;
+    margin-right: 0.5em;
+}
 .story_card_stats {
     display: flex;
     justify-content: flex-start;
