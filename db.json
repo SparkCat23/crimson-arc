@@ -746,6 +746,29 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
+            ],
+            "reviews": [
+                {
+                    "id": 0,
+                    "chapter_id": 1,
+                    "author_name": "Jonah Moss",
+                    "review_date": "2024-03-24_12:00:13.000",
+                    "content":"et ultrices posuere cubilia et ultrices posuere cubilia et ultrices posuere cubilia"
+                },
+                {
+                    "id": 1,
+                    "chapter_id": 1,
+                    "author_name": "Autumn Hogan",
+                    "review_date": "2024-03-25_13:00:13.000",
+                    "content":"Nunc pulvinar arcu et pede. Nunc Nunc pulvinar arcu et pede. Nunc Nunc pulvinar arcu et pede. Nunc"
+                },
+                {
+                    "id": 2,
+                    "chapter_id": 2,
+                    "author_name": "Jonah Moss",
+                    "review_date": "2024-03-24_12:00:13.000",
+                    "content":"et ultrices posuere cubilia et ultrices posuere cubilia et ultrices posuere cubilia"
+                }
             ]
         },
         {

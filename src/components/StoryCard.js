@@ -15,7 +15,7 @@ function StoryCard({customClass, id, title, author_name, summary, rating, langua
                 <p>{summary}{summary}{summary}</p>
                 <p>Rated: {rating} | {language} | Genre: {genre} | Chapters: {chapter_count} | Word count: {word_count}</p>
                 <div className={styles.story_card_stats}>
-                    <a href='#'>Reviews: {review_count}</a>
+                    <Link to={`/story/${id}/reviews`}>Reviews: {review_count}</Link>
                     <span>Favorites: {favorite_count}</span>
                     <span>Following: {follow_count}</span>
                     <span>Updated: {created_at}</span>

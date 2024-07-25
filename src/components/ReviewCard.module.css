@@ -1,0 +1,22 @@
+.review_card {
+    display: flex;
+    align-items: flex-start;
+    padding: 0.5em;
+    border-bottom: 1px solid gray;
+}
+
+.review_card_image {
+    width: 100px;
+    height: 100px;
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0.5em;
+}
+
+.review_card_header a,
+.review_card_header span {
+    font-size: small;
+    margin-right: 0.5em;
+}

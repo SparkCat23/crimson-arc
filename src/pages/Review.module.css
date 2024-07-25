@@ -1,0 +1,18 @@
+.review_container {
+    width: 100%;
+    margin: 0.5em;
+}
+
+.review_list {
+    border: 1px solid gray;
+    border-top: none;
+    border-bottom: none;
+}
+
+.review_list_header {
+    border: 1px solid gray;
+}
+
+.review_list_header p {
+    margin-left: 0.5em;
+}

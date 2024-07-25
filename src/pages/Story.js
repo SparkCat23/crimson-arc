@@ -30,7 +30,6 @@ function Story() {
         })
             .then((resp) => resp.json())
             .then((data) => {
-                console.log(data)
                 setCategoryId(data.category_id)
                 setFandomTag(data.fandom_tag)
                 setStory(data)
