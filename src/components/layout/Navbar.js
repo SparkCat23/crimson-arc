@@ -9,7 +9,7 @@ function Navbar() {
         <Link to='/' className={styles.home_icon}><img src={logo} alt='logo do site' />Crimson Archive</Link>
         <ul className={styles.link_list}>
             <li><Link to='/explore'>Explore</Link></li>
-            <li><Link to='/'>Recents</Link></li>
+            <li><Link to='/recents'>Recents</Link></li>
             <li><Link to='/'>Search</Link></li>
         </ul>
     </nav>

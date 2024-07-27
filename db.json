@@ -1,11 +1,11 @@
 {
     "categories": [
         {
-            "id": 0,
-            "name": "anime_manga",
+            "id": "33B7",
+            "name": "Anime/Manga",
             "fandoms": [
                 {
-                    "id": 0,
+                    "id": "1AEA",
                     "name": "Goblin Slayer",
                     "work_count": 3,
                     "works": [
@@ -24,7 +24,7 @@
                             "follow_count": 30,
                             "created_at": "2025-03-15_02:00:47",
                             "updated_at": "2024-03-24_12:00:13",
-                            "category_id": "33B7-Anime/Manga",
+                            "category_id":"33B7","category_name": "Anime/Manga",
                             "fandom_tag": "1AEA-Goblin Slayer"
                         },
                         {
@@ -42,7 +42,7 @@
                             "follow_count": 12,
                             "created_at": "2023-09-29_12:27:21",
                             "updated_at": "2025-05-19_02:03:53",
-                            "category_id": "33B7-Anime/Manga",
+                            "category_id":"33B7","category_name": "Anime/Manga",
                             "fandom_tag": "1AEA-Goblin Slayer"
                         },
                         {
@@ -60,13 +60,13 @@
                             "follow_count": 16,
                             "created_at": "2025-03-08_11:15:05",
                             "updated_at": "2025-01-05_09:07:12",
-                            "category_id": "33B7-Anime/Manga",
+                            "category_id":"33B7","category_name": "Anime/Manga",
                             "fandom_tag": "1AEA-Goblin Slayer"
                         }
                     ]
                 },
                 {
-                    "id": 1,
+                    "id": "C3CE",
                     "name": "Demon Slayer",
                     "work_count": 3,
                     "works": [
@@ -85,7 +85,7 @@
                             "follow_count": 43,
                             "created_at": "2024-09-05_06:16:32",
                             "updated_at": "2024-05-23_06:41:19",
-                            "category_id": "33B7-Anime/Manga",
+                            "category_id":"33B7","category_name": "Anime/Manga",
                             "fandom_tag": "C3CE-Demon Slayer"
                         },
                         {
@@ -103,7 +103,7 @@
                             "follow_count": 39,
                             "created_at": "2024-06-05_11:53:13",
                             "updated_at": "2024-10-29_02:51:45",
-                            "category_id": "33B7-Anime/Manga",
+                            "category_id":"33B7","category_name": "Anime/Manga",
                             "fandom_tag": "C3CE-Demon Slayer"
                         },
                         {
@@ -121,13 +121,13 @@
                             "follow_count": 25,
                             "created_at": "2025-04-28_06:08:49",
                             "updated_at": "2024-03-26_06:47:10",
-                            "category_id": "33B7-Anime/Manga",
+                            "category_id":"33B7","category_name": "Anime/Manga",
                             "fandom_tag": "C3CE-Demon Slayer"
                         }
                     ]
                 },
                 {
-                    "id": 12,
+                    "id": "ED86",
                     "name": "Fullmetal Alchemist",
                     "work_count": 3,
                     "works": [
@@ -146,7 +146,7 @@
                             "follow_count": 23,
                             "created_at": "2025-01-30_11:25:06",
                             "updated_at": "2025-02-05_08:59:06",
-                            "category_id": "33B7-Anime/Manga",
+                            "category_id":"33B7","category_name": "Anime/Manga",
                             "fandom_tag": "ED86-Fullmetal Alchemist"
                         },
                         {
@@ -164,7 +164,7 @@
                             "follow_count": 31,
                             "created_at": "2025-04-16_09:03:22",
                             "updated_at": "2024-06-05_07:52:48",
-                            "category_id": "33B7-Anime/Manga",
+                            "category_id":"33B7","category_name": "Anime/Manga",
                             "fandom_tag": "ED86-Fullmetal Alchemist"
                         },
                         {
@@ -182,7 +182,7 @@
                             "follow_count": 30,
                             "created_at": "2025-02-16_06:54:34",
                             "updated_at": "2023-12-01_06:07:51",
-                            "category_id": "33B7-Anime/Manga",
+                            "category_id":"33B7","category_name": "Anime/Manga",
                             "fandom_tag": "ED86-Fullmetal Alchemist"
                         }
                     ]
@@ -190,11 +190,11 @@
             ]
         },
         {
-            "id": 1,
+            "id": "315C",
             "name": "literature",
             "fandoms": [
                 {
-                    "id": 3,
+                    "id": "DE2F",
                     "name": "Percy Jackson",
                     "work_count": 3,
                     "works": [
@@ -213,7 +213,7 @@
                             "follow_count": 28,
                             "created_at": "2025-05-25_04:38:49",
                             "updated_at": "2024-07-04_08:00:36",
-                            "category_id": "315C-Literature",
+                            "category_id": "315C","category_name": "Literature",
                             "fandom_tag": "DE2F-Percy Jackson"
                         },
                         {
@@ -231,7 +231,7 @@
                             "follow_count": 3,
                             "created_at": "2025-03-02_04:19:56",
                             "updated_at": "2024-08-16_03:03:07",
-                            "category_id": "315C-Literature",
+                            "category_id": "315C","category_name": "Literature",
                             "fandom_tag": "DE2F-Percy Jackson"
                         },
                         {
@@ -249,7 +249,7 @@
                             "follow_count": 30,
                             "created_at": "2024-08-30_06:31:48",
                             "updated_at": "2024-12-26_08:33:14",
-                            "category_id": "315C-Literature",
+                            "category_id": "315C","category_name": "Literature",
                             "fandom_tag": "DE2F-Percy Jackson"
                         }
                     ]
@@ -257,11 +257,11 @@
             ]
         },
         {
-            "id": 2,
+            "id": "64DA",
             "name": "games",
             "fandoms": [
                 {
-                    "id": 4,
+                    "id": "A35A",
                     "name": "Devil May Cry",
                     "work_count": 3,
                     "works": [
@@ -280,7 +280,7 @@
                             "follow_count": 43,
                             "created_at": "2024-03-14_10:45:39",
                             "updated_at": "2024-03-22_03:22:06",
-                            "category_id": "64DA-Games",
+                            "category_id": "64DA","category_name": "Games",
                             "fandom_tag": "A35A-Devil May Cry"
                         },
                         {
@@ -298,7 +298,7 @@
                             "follow_count": 9,
                             "created_at": "2024-11-25_06:19:39",
                             "updated_at": "2025-01-04_11:32:42",
-                            "category_id": "64DA-Games",
+                            "category_id": "64DA","category_name": "Games",
                             "fandom_tag": "A35A-Devil May Cry"
                         },
                         {
@@ -316,7 +316,7 @@
                             "follow_count": 33,
                             "created_at": "2024-05-26_04:30:47",
                             "updated_at": "2024-02-22_04:45:26",
-                            "category_id": "64DA-Games",
+                            "category_id": "64DA","category_name": "Games",
                             "fandom_tag": "A35A-Devil May Cry"
                         }
                     ]
@@ -324,11 +324,11 @@
             ]
         },
         {
-            "id": 3,
+            "id": "75C7",
             "name": "movies",
             "fandoms": [
                 {
-                    "id": 5,
+                    "id": "C59E",
                     "name": "Pacific Rim",
                     "work_count": 3,
                     "works": [
@@ -347,7 +347,7 @@
                             "follow_count": 8,
                             "created_at": "2024-02-18_07:34:59",
                             "updated_at": "2025-01-14_08:21:29",
-                            "category_id": "75C7-Movies",
+                            "category_id": "75C7","category_name": "Movies",
                             "fandom_tag": "C59E-Pacific Rim"
                         },
                         {
@@ -365,7 +365,7 @@
                             "follow_count": 9,
                             "created_at": "2025-07-06_12:08:16",
                             "updated_at": "2024-08-22_04:12:13",
-                            "category_id": "75C7-Movies",
+                            "category_id": "75C7","category_name": "Movies",
                             "fandom_tag": "C59E-Pacific Rim"
                         },
                         {
@@ -383,7 +383,7 @@
                             "follow_count": 25,
                             "created_at": "2025-01-23_02:42:58",
                             "updated_at": "2023-09-17_04:27:58",
-                            "category_id": "75C7-Movies",
+                            "category_id": "75C7","category_name": "Movies",
                             "fandom_tag": "C59E-Pacific Rim"
                         }
                     ]
@@ -391,11 +391,11 @@
             ]
         },
         {
-            "id": 4,
+            "id": "BFD8",
             "name": "cartoons",
             "fandoms": [
                 {
-                    "id": 6,
+                    "id": "9427",
                     "name": "Avatar: The Last Air Bender",
                     "work_count": 3,
                     "works": [
@@ -414,7 +414,7 @@
                             "follow_count": 41,
                             "created_at": "2023-08-03_09:48:36",
                             "updated_at": "2024-01-13_03:41:55",
-                            "category_id": "BFD8-Cartoons",
+                            "category_id": "BFD8","category_name": "Cartoons",
                             "fandom_tag": "9427-Avatar: The Last Airbender"
                         },
                         {
@@ -432,7 +432,7 @@
                             "follow_count": 26,
                             "created_at": "2025-07-15_02:03:20",
                             "updated_at": "2024-09-28_04:42:14",
-                            "category_id": "BFD8-Cartoons",
+                            "category_id": "BFD8","category_name": "Cartoons",
                             "fandom_tag": "9427-Avatar: The Last Airbender"
                         },
                         {
@@ -450,7 +450,7 @@
                             "follow_count": 22,
                             "created_at": "2024-11-09_01:30:38",
                             "updated_at": "2025-05-10_04:11:45",
-                            "category_id": "BFD8-Cartoons",
+                            "category_id": "BFD8","category_name": "Cartoons",
                             "fandom_tag": "9427-Avatar: The Last Airbender"
                         }
                     ]
@@ -458,11 +458,11 @@
             ]
         },
         {
-            "id": 5,
+            "id": "D2AD",
             "name": "comics",
             "fandoms": [
                 {
-                    "id": 7,
+                    "id": "B928",
                     "name": "Spider-Man",
                     "work_count": 3,
                     "works": [
@@ -481,7 +481,7 @@
                             "follow_count": 22,
                             "created_at": "2023-07-21_04:55:43",
                             "updated_at": "2025-02-07_11:39:09",
-                            "category_id": "D2AD-Comics",
+                            "category_id": "D2AD","category_name": "Comics",
                             "fandom_tag": "B928-Spider–Man"
                         },
                         {
@@ -499,7 +499,7 @@
                             "follow_count": 22,
                             "created_at": "2025-03-08_04:16:18",
                             "updated_at": "2023-12-10_11:24:04",
-                            "category_id": "D2AD-Comics",
+                            "category_id": "D2AD","category_name": "Comics",
                             "fandom_tag": "B928-Spider–Man"
                         },
                         {
@@ -517,7 +517,7 @@
                             "follow_count": 31,
                             "created_at": "2025-06-13_03:53:22",
                             "updated_at": "2024-04-21_01:22:06",
-                            "category_id": "D2AD-Comics",
+                            "category_id": "D2AD","category_name": "Comics",
                             "fandom_tag": "B928-Spider–Man"
                         }
                     ]
@@ -525,11 +525,11 @@
             ]
         },
         {
-            "id": 6,
+            "id": "4920",
             "name": "television",
             "fandoms": [
                 {
-                    "id": 8,
+                    "id": "8C0D",
                     "name": "Supernatural",
                     "work_count": 3,
                     "works": [
@@ -548,7 +548,7 @@
                             "follow_count": 1,
                             "created_at": "2024-11-14_05:53:17",
                             "updated_at": "2024-09-13_07:13:43",
-                            "category_id": "4920-Television",
+                            "category_id": "4920","category_name": "Television",
                             "fandom_tag": "8C0D-Supernatural"
                         },
                         {
@@ -566,7 +566,7 @@
                             "follow_count": 20,
                             "created_at": "2024-09-06_04:09:23",
                             "updated_at": "2024-02-18_06:18:37",
-                            "category_id": "4920-Television",
+                            "category_id": "4920","category_name": "Television",
                             "fandom_tag": "8C0D-Supernatural"
                         },
                         {
@@ -584,7 +584,7 @@
                             "follow_count": 41,
                             "created_at": "2024-02-29_01:44:04",
                             "updated_at": "2024-10-06_11:28:47",
-                            "category_id": "4920-Television",
+                            "category_id": "4920","category_name": "Television",
                             "fandom_tag": "8C0D-Supernatural"
                         }
                     ]
@@ -592,11 +592,11 @@
             ]
         },
         {
-            "id": 7,
+            "id": "849A",
             "name": "original_work",
             "fandoms": [
                 {
-                    "id": 9,
+                    "id": "D4F8",
                     "name": "I Somehow Ended As The Husband Of A Group Of Goblin Girls",
                     "work_count": 3,
                     "works": [
@@ -615,7 +615,7 @@
                             "follow_count": 17,
                             "created_at": "2024-04-08_08:31:07",
                             "updated_at": "2024-03-14_04:36:35",
-                            "category_id": "849A-Original Works",
+                            "category_id": "849A","category_name": "Original Works",
                             "fandom_tag": "D4F8-I Somehow Ended As The Husband Of A Group Of Goblin Girls"
                         },
                         {
@@ -633,7 +633,7 @@
                             "follow_count": 35,
                             "created_at": "2025-03-06_11:34:55",
                             "updated_at": "2024-05-29_05:30:51",
-                            "category_id": "849A-Original Works",
+                            "category_id": "849A","category_name": "Original Works",
                             "fandom_tag": "D4F8-I Somehow Ended As The Husband Of A Group Of Goblin Girls"
                         },
                         {
@@ -651,7 +651,7 @@
                             "follow_count": 28,
                             "created_at": "2023-09-23_04:51:34",
                             "updated_at": "2024-12-20_11:45:29",
-                            "category_id": "849A-Original Works",
+                            "category_id": "849A","category_name": "Original Works",
                             "fandom_tag": "D4F8-I Somehow Ended As The Husband Of A Group Of Goblin Girls"
                         }
                     ]
@@ -715,6 +715,7 @@
     "story": [
         {
             "id": 0,
+            "author_id": 0,
             "author_name": "Ora Petty",
             "title": "Morbi vehicula. Pellentesque tincidunt",
             "summary": "laoreet ipsum. Curabitur",
@@ -723,13 +724,15 @@
             "genre": "Action",
             "chapter_count": 3,
             "word_count": 1887,
-            "review_count": 24,
+            "review_count": 3,
             "favorite_count": 18,
             "follow_count": 30,
             "created_at": "2025-03-15_02:00:47",
             "updated_at": "2024-03-24_12:00:13",
-            "category_id": "33B7-Anime/Manga",
-            "fandom_tag": "1AEA-Goblin Slayer",
+            "category_id": "33B7",
+            "category_name": "Anime/Manga",
+            "fandom_id": "1AEA",
+            "fandom_tag": "Goblin Slayer",
             "chapters": [
                 {
                     "id": 1,
@@ -751,6 +754,7 @@
                 {
                     "id": 0,
                     "chapter_id": 1,
+                    "author_id": 1,
                     "author_name": "Jonah Moss",
                     "review_date": "2024-03-24_12:00:13.000",
                     "content":"et ultrices posuere cubilia et ultrices posuere cubilia et ultrices posuere cubilia"
@@ -758,6 +762,7 @@
                 {
                     "id": 1,
                     "chapter_id": 1,
+                    "author_id": 2,
                     "author_name": "Autumn Hogan",
                     "review_date": "2024-03-25_13:00:13.000",
                     "content":"Nunc pulvinar arcu et pede. Nunc Nunc pulvinar arcu et pede. Nunc Nunc pulvinar arcu et pede. Nunc"
@@ -765,6 +770,7 @@
                 {
                     "id": 2,
                     "chapter_id": 2,
+                    "author_id": 1,
                     "author_name": "Jonah Moss",
                     "review_date": "2024-03-24_12:00:13.000",
                     "content":"et ultrices posuere cubilia et ultrices posuere cubilia et ultrices posuere cubilia"
@@ -773,21 +779,24 @@
         },
         {
             "id": 1,
+            "author_id": 3,
             "author_name": "Meghan Tate",
             "title": "egestas. Aliquam fringilla cursus",
             "summary": "in lobortis tellus justo sit",
             "rating": "K",
             "language": "spanish",
             "genre": "Adventure",
-            "chapter_count": 9,
+            "chapter_count": 3,
             "word_count": 1897,
-            "review_count": 17,
+            "review_count": 0,
             "favorite_count": 6,
             "follow_count": 43,
             "created_at": "2024-09-05_06:16:32",
             "updated_at": "2024-05-23_06:41:19",
-            "category_id": "33B7-Anime/Manga",
-            "fandom_tag": "C3CE-Demon Slayer",
+            "category_id": "33B7",
+            "category_name": "Anime/Manga",
+            "fandom_id":"C3CE",
+            "fandom_tag": "Demon Slayer",
             "chapters": [
                 {
                     "id": 1,
@@ -804,11 +813,13 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 2,
-            "author_name": "Rosalyn Bass",
+            "author_id": 5,
+            "author_name": "Carla Ruiz",
             "title": "libero at auctor ullamcorper,",
             "summary": "magna nec quam. Curabitur vel lectus. Cum",
             "rating": "T",
@@ -821,8 +832,10 @@
             "follow_count": 23,
             "created_at": "2025-01-30_11:25:06",
             "updated_at": "2025-02-05_08:59:06",
-            "category_id": "33B7-Anime/Manga",
-            "fandom_tag": "ED86-Fullmetal Alchemist",
+            "category_id":"33B7",
+            "category_name": "Anime/Manga",
+            "fandom_id":"ED86",
+            "fandom_tag": "Fullmetal Alchemist",
             "chapters": [
                 {
                     "id": 1,
@@ -839,25 +852,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 3,
+            "author_id": 4,
             "author_name": "Madeson Morrison",
             "title": "semper, dui lectus rutrum",
             "summary": "Cras dolor dolor, tempus",
             "rating": "M",
             "language": "english",
             "genre": "Friendship",
-            "chapter_count": 4,
+            "chapter_count": 3,
             "word_count": 563,
             "review_count": 0,
             "favorite_count": 8,
             "follow_count": 1,
             "created_at": "2024-11-14_05:53:17",
             "updated_at": "2024-09-13_07:13:43",
-            "category_id": "4920-Television",
-            "fandom_tag": "8C0D-Supernatural",
+            "category_id": "4920","category_name": "Television",
+            "fandom_id": "4920","fandom_tag": "Television",
             "chapters": [
                 {
                     "id": 1,
@@ -874,25 +889,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 4,
+            "author_id": 2,
             "author_name": "Autumn Hogan",
             "title": "semper erat, in consectetuer",
             "summary": "arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien,",
             "rating": "K+",
             "language": "spanish",
             "genre": "Romance",
-            "chapter_count": 4,
+            "chapter_count": 3,
             "word_count": 2387,
-            "review_count": 24,
+            "review_count": 0,
             "favorite_count": 43,
             "follow_count": 22,
             "created_at": "2023-07-21_04:55:43",
             "updated_at": "2025-02-07_11:39:09",
-            "category_id": "D2AD-Comics",
-            "fandom_tag": "B928-Spider–Man",
+            "category_id": "D2AD","category_name": "Comics",
+            "fandom_id": "B928","fandom_tag": "Spider-Man",
             "chapters": [
                 {
                     "id": 1,
@@ -909,25 +926,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 5,
+            "author_id": 5,
             "author_name": "Carla Ruiz",
             "title": "neque vitae semper egestas,",
             "summary": "Donec tincidunt.",
             "rating": "K",
             "language": "portuguese",
             "genre": "Sci-fi",
-            "chapter_count": 4,
+            "chapter_count": 3,
             "word_count": 644,
-            "review_count": 4,
+            "review_count": 0,
             "favorite_count": 30,
             "follow_count": 43,
             "created_at": "2024-03-14_10:45:39",
             "updated_at": "2024-03-22_03:22:06",
-            "category_id": "64DA-Games",
-            "fandom_tag": "A35A-Devil May Cry",
+            "category_id": "64DA","category_name": "Games",
+            "fandom_id": "A35A","fandom_tag": "Devil May Cry",
             "chapters": [
                 {
                     "id": 1,
@@ -944,10 +963,12 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 6,
+            "author_id": 6,
             "author_name": "Rogan Wyatt",
             "title": "elit fermentum risus, at",
             "summary": "Quisque ac",
@@ -961,8 +982,8 @@
             "follow_count": 41,
             "created_at": "2023-08-03_09:48:36",
             "updated_at": "2024-01-13_03:41:55",
-            "category_id": "BFD8-Cartoons",
-            "fandom_tag": "9427-Avatar: The Last Airbender",
+            "category_id": "BFD8","category_name": "Cartoons",
+            "fandom_id": "9427","fandom_tag": "Avatar: The Last Airbender",
             "chapters": [
                 {
                     "id": 1,
@@ -979,25 +1000,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 7,
+            "author_id": 7,
             "author_name": "Cairo Sims",
             "title": "lorem lorem, luctus ut,",
             "summary": "massa.",
             "rating": "M",
             "language": "spanish",
             "genre": "Adventure",
-            "chapter_count": 7,
+            "chapter_count": 3,
             "word_count": 2184,
-            "review_count": 19,
+            "review_count": 0,
             "favorite_count": 14,
             "follow_count": 28,
             "created_at": "2025-05-25_04:38:49",
             "updated_at": "2024-07-04_08:00:36",
-            "category_id": "315C-Literature",
-            "fandom_tag": "DE2F-Percy Jackson",
+            "category_id": "315C","category_name": "Literature",
+            "fandom_id": "DE2F","fandom_tag": "Percy Jackson",
             "chapters": [
                 {
                     "id": 1,
@@ -1014,25 +1037,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 8,
+            "author_id": 8,
             "author_name": "Maia Acevedo",
             "title": "libero. Donec consectetuer mauris",
             "summary": "tempor,",
             "rating": "K+",
             "language": "portuguese",
             "genre": "Comfort",
-            "chapter_count": 1,
+            "chapter_count": 3,
             "word_count": 2247,
-            "review_count": 9,
+            "review_count": 0,
             "favorite_count": 45,
             "follow_count": 8,
             "created_at": "2024-02-18_07:34:59",
             "updated_at": "2025-01-14_08:21:29",
-            "category_id": "75C7-Movies",
-            "fandom_tag": "C59E-Pacific Rim",
+            "category_id": "75C7","category_name": "Movies",
+            "fandom_id": "C59E","fandom_tag": "Pacific Rim",
             "chapters": [
                 {
                     "id": 1,
@@ -1049,25 +1074,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 9,
-            "author_name": "Oscar Charles",
+            "author_id": 0,
+            "author_name": "Ora Petty",
             "title": "ante dictum mi, ac",
             "summary": "Morbi metus. Vivamus euismod urna. Nullam",
             "rating": "K",
             "language": "english",
             "genre": "Friendship",
-            "chapter_count": 8,
+            "chapter_count": 3,
             "word_count": 1571,
-            "review_count": 4,
+            "review_count": 0,
             "favorite_count": 42,
             "follow_count": 17,
             "created_at": "2024-04-08_08:31:07",
             "updated_at": "2024-03-14_04:36:35",
-            "category_id": "849A-Original Works",
-            "fandom_tag": "D4F8-I Somehow Ended As The Husband Of A Group Of Goblin Girls",
+            "category_id": "849A","category_name": "Original Works",
+            "fandom_id": "D4F8","fandom_tag": "I Somehow Ended As The Husband Of A Group Of Goblin Girls",
             "chapters": [
                 {
                     "id": 1,
@@ -1084,25 +1111,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 10,
+            "author_id":10,
             "author_name": "Noble Saunders",
             "title": "pellentesque massa lobortis ultrices.",
             "summary": "amet risus. Donec egestas. Aliquam nec enim. Nunc ut",
             "rating": "T",
             "language": "spanish",
             "genre": "Romance",
-            "chapter_count": 7,
+            "chapter_count": 3,
             "word_count": 529,
-            "review_count": 11,
+            "review_count": 0,
             "favorite_count": 31,
             "follow_count": 16,
             "created_at": "2025-03-08_11:15:05",
             "updated_at": "2025-01-05_09:07:12",
-            "category_id": "33B7-Anime/Manga",
-            "fandom_tag": "1AEA-Goblin Slayer",
+            "category_id":"33B7","category_name": "Anime/Manga",
+            "fandom_id": "1AEA","fandom_tag": "Goblin Slayer",
             "chapters": [
                 {
                     "id": 1,
@@ -1119,25 +1148,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 11,
+            "author_id": 11,
             "author_name": "Tashya Roberson",
             "title": "tellus, imperdiet non, vestibulum",
             "summary": "ad litora torquent per conubia",
             "rating": "M",
             "language": "portuguese",
             "genre": "Sci-fi",
-            "chapter_count": 4,
+            "chapter_count": 3,
             "word_count": 1241,
-            "review_count": 8,
+            "review_count": 0,
             "favorite_count": 3,
             "follow_count": 39,
             "created_at": "2024-06-05_11:53:13",
             "updated_at": "2024-10-29_02:51:45",
-            "category_id": "33B7-Anime/Manga",
-            "fandom_tag": "C3CE-Demon Slayer",
+            "category_id":"33B7","category_name": "Anime/Manga",
+            "fandom_id":"C3CE","fandom_tag": "Demon Slayer",
             "chapters": [
                 {
                     "id": 1,
@@ -1154,25 +1185,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 12,
+            "author_id":12,
             "author_name": "Emi Beach",
             "title": "gravida mauris ut mi.",
             "summary": "neque venenatis lacus.",
             "rating": "K+",
             "language": "english",
             "genre": "Action",
-            "chapter_count": 2,
+            "chapter_count": 3,
             "word_count": 1705,
             "review_count": 0,
             "favorite_count": 25,
             "follow_count": 31,
             "created_at": "2025-04-16_09:03:22",
             "updated_at": "2024-06-05_07:52:48",
-            "category_id": "33B7-Anime/Manga",
-            "fandom_tag": "ED86-Fullmetal Alchemist",
+            "category_id":"33B7","category_name": "Anime/Manga",
+            "fandom_id":"ED86","fandom_tag": "Fullmetal Alchemist",
             "chapters": [
                 {
                     "id": 1,
@@ -1189,10 +1222,12 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 13,
+            "author_id":13,
             "author_name": "Roary Sexton",
             "title": "pellentesque a, facilisis non,",
             "summary": "metus. Vivamus euismod",
@@ -1206,8 +1241,10 @@
             "follow_count": 20,
             "created_at": "2024-09-06_04:09:23",
             "updated_at": "2024-02-18_06:18:37",
-            "category_id": "4920-Television",
-            "fandom_tag": "8C0D-Supernatural",
+            "category_id": "4920",
+            "category_name": "Television",
+            "fandom_id": "4920",
+            "fandom_tag": "Television",
             "chapters": [
                 {
                     "id": 1,
@@ -1224,25 +1261,29 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 14,
+            "author_id":14,
             "author_name": "Carter Bradford",
             "title": "et nunc. Quisque ornare",
             "summary": "tristique senectus et netus et",
             "rating": "T",
             "language": "portuguese",
             "genre": "Comfort",
-            "chapter_count": 4,
+            "chapter_count": 3,
             "word_count": 794,
-            "review_count": 20,
+            "review_count": 0,
             "favorite_count": 38,
             "follow_count": 22,
             "created_at": "2025-03-08_04:16:18",
             "updated_at": "2023-12-10_11:24:04",
-            "category_id": "D2AD-Comics",
-            "fandom_tag": "B928-Spider–Man",
+            "category_id": "D2AD",
+            "category_name": "Comics",
+            "fandom_id": "B928",
+            "fandom_tag": "Spider-Man",
             "chapters": [
                 {
                     "id": 1,
@@ -1259,10 +1300,12 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 15,
+            "author_id":15,
             "author_name": "Katelyn English",
             "title": "ut cursus luctus, ipsum",
             "summary": "est ac facilisis facilisis, magna tellus faucibus",
@@ -1276,8 +1319,10 @@
             "follow_count": 9,
             "created_at": "2024-11-25_06:19:39",
             "updated_at": "2025-01-04_11:32:42",
-            "category_id": "64DA-Games",
-            "fandom_tag": "A35A-Devil May Cry",
+            "category_id": "64DA",
+            "category_name": "Games",
+            "fandom_id": "A35A",
+            "fandom_tag": "Devil May Cry",
             "chapters": [
                 {
                     "id": 1,
@@ -1294,25 +1339,29 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 16,
+            "author_id":16,
             "author_name": "Gisela Campbell",
             "title": "eu nulla at sem",
             "summary": "quam",
             "rating": "K+",
             "language": "spanish",
             "genre": "Romance",
-            "chapter_count": 4,
+            "chapter_count": 3,
             "word_count": 447,
-            "review_count": 16,
+            "review_count": 0,
             "favorite_count": 3,
             "follow_count": 26,
             "created_at": "2025-07-15_02:03:20",
             "updated_at": "2024-09-28_04:42:14",
-            "category_id": "BFD8-Cartoons",
-            "fandom_tag": "9427-Avatar: The Last Airbender",
+            "category_id": "BFD8",
+            "category_name": "Cartoons",
+            "fandom_id": "9427",
+            "fandom_tag": "Avatar: The Last Airbender",
             "chapters": [
                 {
                     "id": 1,
@@ -1329,10 +1378,12 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 17,
+            "author_id":1,
             "author_name": "Jonah Moss",
             "title": "lacus. Quisque purus sapien,",
             "summary": "tortor nibh sit amet orci.",
@@ -1341,13 +1392,15 @@
             "genre": "Sci-fi",
             "chapter_count": 3,
             "word_count": 1063,
-            "review_count": 5,
+            "review_count":0,
             "favorite_count": 20,
             "follow_count": 3,
             "created_at": "2025-03-02_04:19:56",
             "updated_at": "2024-08-16_03:03:07",
-            "category_id": "315C-Literature",
-            "fandom_tag": "DE2F-Percy Jackson",
+            "category_id": "315C",
+            "category_name": "Literature",
+            "fandom_id": "DE2F",
+            "fandom_tag": "Percy Jackson",
             "chapters": [
                 {
                     "id": 1,
@@ -1364,25 +1417,29 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 18,
+            "author_id":17,
             "author_name": "Chaim Mcintosh",
             "title": "feugiat metus sit amet",
             "summary": "Cras sed leo. Cras",
             "rating": "T",
             "language": "english",
             "genre": "Action",
-            "chapter_count": 1,
+            "chapter_count": 3,
             "word_count": 1234,
-            "review_count": 13,
+            "review_count": 0,
             "favorite_count": 41,
             "follow_count": 9,
             "created_at": "2025-07-06_12:08:16",
             "updated_at": "2024-08-22_04:12:13",
-            "category_id": "75C7-Movies",
-            "fandom_tag": "C59E-Pacific Rim",
+            "category_id": "75C7",
+            "category_name": "Movies",
+            "fandom_id": "C59E",
+            "fandom_tag": "Pacific Rim",
             "chapters": [
                 {
                     "id": 1,
@@ -1399,25 +1456,29 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 19,
+            "author_id":18,
             "author_name": "Brynn Lamb",
             "title": "a, magna. Lorem ipsum",
             "summary": "euismod mauris eu elit. Nulla facilisi. Sed",
             "rating": "M",
             "language": "spanish",
             "genre": "Adventure",
-            "chapter_count": 9,
+            "chapter_count": 3,
             "word_count": 2477,
-            "review_count": 17,
+            "review_count": 0,
             "favorite_count": 9,
             "follow_count": 35,
             "created_at": "2025-03-06_11:34:55",
             "updated_at": "2024-05-29_05:30:51",
-            "category_id": "849A-Original Works",
-            "fandom_tag": "D4F8-I Somehow Ended As The Husband Of A Group Of Goblin Girls",
+            "category_id": "849A",
+            "category_name": "Original Works",
+            "fandom_id": "D4F8",
+            "fandom_tag": "I Somehow Ended As The Husband Of A Group Of Goblin Girls",
             "chapters": [
                 {
                     "id": 1,
@@ -1434,25 +1495,29 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 20,
+            "author_id":19,
             "author_name": "Hall Gonzales",
             "title": "porta elit, a feugiat",
             "summary": "libero et tristique pellentesque, tellus sem",
             "rating": "K+",
             "language": "portuguese",
             "genre": "Comfort",
-            "chapter_count": 7,
+            "chapter_count": 3,
             "word_count": 1752,
-            "review_count": 24,
+            "review_count": 0,
             "favorite_count": 17,
             "follow_count": 12,
             "created_at": "2023-09-29_12:27:21",
             "updated_at": "2025-05-19_02:03:53",
-            "category_id": "33B7-Anime/Manga",
-            "fandom_tag": "1AEA-Goblin Slayer",
+            "category_id":"33B7",
+            "category_name": "Anime/Manga",
+            "fandom_id": "1AEA",
+            "fandom_tag": "Goblin Slayer",
             "chapters": [
                 {
                     "id": 1,
@@ -1469,25 +1534,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 21,
+            "author_id":20,
             "author_name": "Calista Mullen",
             "title": "nunc sed pede. Cum",
             "summary": "sociis",
             "rating": "K",
             "language": "english",
             "genre": "Friendship",
-            "chapter_count": 6,
+            "chapter_count": 3,
             "word_count": 276,
-            "review_count": 30,
+            "review_count": 0,
             "favorite_count": 30,
             "follow_count": 25,
             "created_at": "2025-04-28_06:08:49",
             "updated_at": "2024-03-26_06:47:10",
-            "category_id": "33B7-Anime/Manga",
-            "fandom_tag": "C3CE-Demon Slayer",
+            "category_id":"33B7","category_name": "Anime/Manga",
+            "fandom_id":"C3CE","fandom_tag": "Demon Slayer",
             "chapters": [
                 {
                     "id": 1,
@@ -1504,25 +1571,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 22,
+            "author_id":21,
             "author_name": "Yoshi Chang",
             "title": "facilisi. Sed neque. Sed",
             "summary": "risus. Donec nibh enim, gravida sit",
             "rating": "T",
             "language": "spanish",
             "genre": "Romance",
-            "chapter_count": 10,
+            "chapter_count": 3,
             "word_count": 950,
-            "review_count": 18,
+            "review_count": 0,
             "favorite_count": 30,
             "follow_count": 30,
             "created_at": "2025-02-16_06:54:34",
             "updated_at": "2023-12-01_06:07:51",
-            "category_id": "33B7-Anime/Manga",
-            "fandom_tag": "ED86-Fullmetal Alchemist",
+            "category_id":"33B7","category_name": "Anime/Manga",
+            "fandom_id":"ED86","fandom_tag": "Fullmetal Alchemist",
             "chapters": [
                 {
                     "id": 1,
@@ -1539,11 +1608,13 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 23,
-            "author_name": "Finn Morris",
+            "author_id": 0,
+            "author_name": "Ora Petty",
             "title": "odio. Nam interdum enim",
             "summary": "tempor, est",
             "rating": "M",
@@ -1551,13 +1622,13 @@
             "genre": "Sci-fi",
             "chapter_count": 3,
             "word_count": 1246,
-            "review_count": 7,
+            "review_count": 0,
             "favorite_count": 10,
             "follow_count": 41,
             "created_at": "2024-02-29_01:44:04",
             "updated_at": "2024-10-06_11:28:47",
-            "category_id": "4920-Television",
-            "fandom_tag": "8C0D-Supernatural",
+            "category_id": "4920","category_name": "Television",
+            "fandom_id": "4920","fandom_tag": "Television",
             "chapters": [
                 {
                     "id": 1,
@@ -1574,11 +1645,13 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 24,
-            "author_name": "Amos Hull",
+            "author_id":1,
+            "author_name": "Jonah Moss",
             "title": "Phasellus ornare. Fusce mollis.",
             "summary": "Aliquam gravida mauris ut mi.",
             "rating": "K+",
@@ -1591,8 +1664,8 @@
             "follow_count": 31,
             "created_at": "2025-06-13_03:53:22",
             "updated_at": "2024-04-21_01:22:06",
-            "category_id": "D2AD-Comics",
-            "fandom_tag": "B928-Spider–Man",
+            "category_id": "D2AD","category_name": "Comics",
+            "fandom_id": "B928","fandom_tag": "Spider-Man",
             "chapters": [
                 {
                     "id": 1,
@@ -1609,25 +1682,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 25,
-            "author_name": "Eugenia Mosley",
+            "author_id": 2,
+            "author_name": "Autumn Hogan",
             "title": "adipiscing elit. Etiam laoreet,",
             "summary": "molestie orci tincidunt adipiscing. Mauris molestie",
             "rating": "K",
             "language": "spanish",
             "genre": "Adventure",
-            "chapter_count": 7,
+            "chapter_count": 3,
             "word_count": 830,
             "review_count": 17,
-            "favorite_count": 3,
+            "favorite_count": 0,
             "follow_count": 33,
             "created_at": "2024-05-26_04:30:47",
             "updated_at": "2024-02-22_04:45:26",
-            "category_id": "64DA-Games",
-            "fandom_tag": "A35A-Devil May Cry",
+            "category_id": "64DA","category_name": "Games",
+            "fandom_id": "A35A","fandom_tag": "Devil May Cry",
             "chapters": [
                 {
                     "id": 1,
@@ -1644,11 +1719,13 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 26,
-            "author_name": "Ralph Mills",
+            "author_id": 3,
+            "author_name": "Meghan Tate",
             "title": "Lorem ipsum dolor sit",
             "summary": "velit eu sem. Pellentesque ut ipsum ac mi eleifend",
             "rating": "T",
@@ -1656,13 +1733,13 @@
             "genre": "Comfort",
             "chapter_count": 3,
             "word_count": 655,
-            "review_count": 20,
+            "review_count": 0,
             "favorite_count": 31,
             "follow_count": 22,
             "created_at": "2024-11-09_01:30:38",
             "updated_at": "2025-05-10_04:11:45",
-            "category_id": "BFD8-Cartoons",
-            "fandom_tag": "9427-Avatar: The Last Airbender",
+            "category_id": "BFD8","category_name": "Cartoons",
+            "fandom_id": "9427","fandom_tag": "Avatar: The Last Airbender",
             "chapters": [
                 {
                     "id": 1,
@@ -1679,25 +1756,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 27,
-            "author_name": "Cathleen Bryan",
+            "author_id": 4,
+            "author_name": "Madeson Morrison",
             "title": "imperdiet, erat nonummy ultricies",
             "summary": "In",
             "rating": "M",
             "language": "english",
             "genre": "Friendship",
-            "chapter_count": 7,
+            "chapter_count": 3,
             "word_count": 2085,
-            "review_count": 27,
+            "review_count": 0,
             "favorite_count": 9,
             "follow_count": 30,
             "created_at": "2024-08-30_06:31:48",
             "updated_at": "2024-12-26_08:33:14",
-            "category_id": "315C-Literature",
-            "fandom_tag": "DE2F-Percy Jackson",
+            "category_id": "315C","category_name": "Literature",
+            "fandom_id": "DE2F","fandom_tag": "Percy Jackson",
             "chapters": [
                 {
                     "id": 1,
@@ -1714,25 +1793,27 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 28,
-            "author_name": "Murphy Conway",
+            "author_id": 4,
+            "author_name": "Madeson Morrison",
             "title": "nec, euismod in, dolor.",
             "summary": "Proin velit. Sed malesuada",
             "rating": "K+",
             "language": "spanish",
             "genre": "Romance",
-            "chapter_count": 6,
+            "chapter_count": 3,
             "word_count": 1043,
-            "review_count": 25,
+            "review_count": 0,
             "favorite_count": 15,
             "follow_count": 25,
             "created_at": "2025-01-23_02:42:58",
             "updated_at": "2023-09-17_04:27:58",
-            "category_id": "75C7-Movies",
-            "fandom_tag": "C59E-Pacific Rim",
+            "category_id": "75C7","category_name": "Movies",
+            "fandom_id": "C59E","fandom_tag": "Pacific Rim",
             "chapters": [
                 {
                     "id": 1,
@@ -1749,11 +1830,13 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
         },
         {
             "id": 29,
-            "author_name": "Shelley Mcintyre",
+            "author_id": 4,
+            "author_name": "Madeson Morrison",
             "title": "quam. Curabitur vel lectus.",
             "summary": "nisl sem, consequat nec, mollis",
             "rating": "K",
@@ -1761,13 +1844,13 @@
             "genre": "Sci-fi",
             "chapter_count": 3,
             "word_count": 418,
-            "review_count": 14,
+            "review_count": 0,
             "favorite_count": 49,
             "follow_count": 28,
             "created_at": "2023-09-23_04:51:34",
             "updated_at": "2024-12-20_11:45:29",
-            "category_id": "849A-Original Works",
-            "fandom_tag": "D4F8-I Somehow Ended As The Husband Of A Group Of Goblin Girls",
+            "category_id": "849A","category_name": "Original Works",
+            "fandom_id": "D4F8","fandom_tag": "I Somehow Ended As The Husband Of A Group Of Goblin Girls",
             "chapters": [
                 {
                     "id": 1,
@@ -1784,7 +1867,164 @@
                     "title": "Aenean massa. Integer",
                     "content": "et ultrices posuere cubilia"
                 }
-            ]
+            ],
+            "reviews":[]
+        }
+    ],
+    "author": [
+        {
+            "id": 0,
+            "author_name": "Ora Petty",
+            "created_at": "2023-07-21_04:55:43",
+            "author_bio": "adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories": [0, 9, 23]
+        },
+        {
+            "id": 1,
+            "author_name": "Jonah Moss",
+            "created_at": "2023-09-29_12:27:21",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories": [17, 24]
+        },
+        {
+            "id": 2,
+            "author_name": "Autumn Hogan",
+            "created_at": "2023-09-23_04:51:34",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories": [4, 25]
+        },
+        {
+            "id": 3,
+            "author_name": "Meghan Tate",
+            "created_at": "2024-03-14_10:45:39",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories": [1, 26]
+        },
+        {
+            "id": 4,
+            "author_name": "Madeson Morrison",
+            "created_at":"2023-09-29_12:27:21",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories": [3, 27, 28, 29]
+        },
+        {
+            "id": 5,
+            "author_name": "Carla Ruiz",
+            "created_at":"2024-08-30_06:31:48",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[2, 5]
+        },
+        {
+            "id": 6,
+            "author_name": "Rogan Wyatt",
+            "created_at": "2024-02-29_01:44:04",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[6]
+        },
+        {
+            "id": 7,
+            "author_name": "Cairo Sims",
+            "created_at": "2023-09-23_04:51:34",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[7]
+        },
+        {
+            "id": 8,
+            "author_name": "Maia Acevedo",
+            "created_at":"2025-01-30_11:25:06",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories": [8]
+        },
+        {
+            "id": 9,
+            "author_name": "Oscar Charles",
+            "created_at":"2024-09-05_06:16:32",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[9]
+        },
+        {
+            "id": 10,
+            "author_name": "Noble Saunders",
+            "created_at":"2023-09-29_12:27:21",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[10]
+        },
+        {
+            "id":11,
+            "author_name": "Tashya Roberson",
+            "created_at":"2025-03-08_11:15:05",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[11]
+        },
+        {
+            "id": 12,
+            "author_name": "Emi Beach",
+            "created_at":"2025-07-15_02:03:20",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[12]
+        },
+        {
+            "id": 13,
+            "author_name": "Roary Sexton",
+            "created_at":"2024-03-14_10:45:39",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[13]
+        },
+        {
+            "id": 14,
+            "author_name": "Carter Bradford",
+            "created_at":"2025-04-28_06:08:49",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[14]
+        },
+        {
+            "id":15,
+            "author_name": "Katelyn English",
+            "created_at":"2024-05-26_04:30:47",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[15]
+        },
+        {
+            "id": 16,
+            "author_name": "Gisela Campbell",
+            "created_at":"2025-04-16_09:03:22",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[16]
+        },
+        {
+            "id": 17,
+            "author_name": "Chaim Mcintosh",
+            "created_at":"2023-08-03_09:48:36",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[18]
+        },
+        {
+            "id":18,
+            "author_name": "Brynn Lamb",
+            "created_at":"2023-07-21_04:55:43",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories": [19]
+        },
+        {
+            "id":19,
+            "author_name": "Hall Gonzales",
+            "created_at":"2025-02-16_06:54:34",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[20]
+        },
+        {
+            "id":20,
+            "author_name": "Calista Mullen",
+            "created_at":"2025-03-08_11:15:05",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[21]
+        },
+        {
+            "id":21,
+            "author_name": "Yoshi Chang",
+            "created_at":"2025-05-25_04:38:49",
+            "author_bio":"adipiscing tellus aliquet risus egestas quam senectus orci ornare ullamcorper elit velit imperdiet.",
+            "published_stories":[22]
         }
     ]
 }

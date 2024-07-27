@@ -28,7 +28,7 @@ function Category() {
             <div>
                 <ul>
                     {fandoms.length > 0 && fandoms.map((fandom) => (
-                        <li><Link to={`/fandom/${fandom.id}`} state={{'category_id': category_id}}>{`${fandom.name} (${fandom.work_count})`}</Link></li>
+                        <li><Link to={`/category/${category.id}/fandom/${fandom.id}`}>{`${fandom.name} (${fandom.work_count})`}</Link></li>
                     ))}
                     {fandoms.length === 0 && <p>This category is empty. <a href='/'>Start by publishing your story!</a></p>}
                 </ul>

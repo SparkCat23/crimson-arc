@@ -1,0 +1,7 @@
+.tab_buttons {
+    display: flex;   
+}
+
+.tab_buttons span {
+    margin: 0.5em 1em;
+}

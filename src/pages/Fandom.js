@@ -1,13 +1,14 @@
 import styles from './Fandom.module.css'
 
 import { useEffect, useState } from 'react'
-import { Link, useLocation } from 'react-router-dom'
+import { useLocation } from 'react-router-dom'
 
 import StoryCard from '../components/StoryCard'
+import HeaderBreadcrumb from '../components/layout/HeaderBreadcrumb'
 
 function Fandom(){
     const location = useLocation()
-    const category_id = location.state.category_id
+    const category_id = location.pathname.split('/')[2]
     const fandom_id = location.pathname.split('/').pop()
 
     const [workList, setWorkList] = useState([])
@@ -34,7 +35,7 @@ function Fandom(){
 
     return (
         <div className={styles.fandom_container}>
-            <p className={styles.fandom_link}><Link to={`/category/${category_id}`}>{category.name}</Link> &gt; {fandom.name}</p>
+            <HeaderBreadcrumb category={{'id': category.id, 'name': category.name}} current_page={fandom.name} />
             <div>{workList.length > 0 && workList.map((story) => (
                 <StoryCard {...story}/>
             ))}

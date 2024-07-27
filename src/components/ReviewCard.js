@@ -1,7 +1,9 @@
 import logo from '../logo.svg'
 import styles from './ReviewCard.module.css'
 
-function ReviewCard({id, chapter_id, author_name, review_date, content}){
+import {Link} from 'react-router-dom'
+
+function ReviewCard({id, chapter_id, author_id, author_name, review_date, content}){
     
     return(
     <div className={styles.review_card}>
@@ -10,7 +12,7 @@ function ReviewCard({id, chapter_id, author_name, review_date, content}){
         </div>
         <div>
             <div className={styles.review_card_header}>
-                <a href='#'>{author_name}</a>
+                <Link to={`/author/${author_id}`}>{author_name}</Link>
                 <span>Chapter: {chapter_id} |</span>
                 <span>{review_date}</span>
             </div>

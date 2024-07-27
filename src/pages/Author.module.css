@@ -1,0 +1,20 @@
+.author_container {
+    width: 100%;
+    margin: 1em;
+}
+
+.author_card {
+    display: flex;
+    align-items: flex-start;
+    padding-bottom: 2em;
+    border-bottom: 1px solid gray;
+}
+
+.author_image {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin-right: 1em;
+    border: 1px solid gray;
+}

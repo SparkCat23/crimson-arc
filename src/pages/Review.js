@@ -34,6 +34,7 @@ function Review() {
                 {reviews.length > 0 && reviews.map((review) => (
                     <ReviewCard id={review.id}
                      chapter_id={review.chapter_id}
+                     author_id={review.author_id}
                      author_name={review.author_name} 
                      review_date={review.review_date} 
                      content={review.content} />

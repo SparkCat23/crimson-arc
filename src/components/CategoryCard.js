@@ -8,7 +8,7 @@ function CategoryCard({category}){
         <Link to={`/category/${category.id}`} className={styles.category_link}>{category.name.toUpperCase()}</Link>
         <ul className={styles.category_fandom_list}>
             {category.fandoms.map((fandom) => (
-            <li><Link to={`/fandom/${fandom.id}`} state={{'category_id': category.id}}>{`${fandom.name} (${fandom.work_count})`}</Link></li>
+            <li><Link to={`/category/${category.id}/fandom/${fandom.id}`}>{`${fandom.name} (${fandom.work_count})`}</Link></li>
             ))}
         </ul>
     </div>
